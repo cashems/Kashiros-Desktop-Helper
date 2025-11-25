@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build and distribution folders
+dist/
+build/
+
+# Installer artifacts
+*.spec
+
+# Executables
+*.exe
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local config
+helper_config
